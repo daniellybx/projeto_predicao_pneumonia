@@ -29,13 +29,7 @@ Para o projeto, serão consideradas as CID elencadas na Portaria Nº 221, de 17 
 
 |Variável |Identificação no SIH| Descrição| 
 |---------|--------------------|----------|
-| |
-|Variável dependente|
-| |
 |Morte|MORTE   |Indica se o internado evoluiu à óbito|
-| |
-|Variáveis independentes
-| |
 |Idade  |IDADE      |Indica a idade do internado no momento da internação |
 |Sexo  |SEXO      |Indica o sexo do internado |
 |Unidade Federada  |UF_ZI      |Código do IBGE para a unidade da federação em que a internação ocorreu |

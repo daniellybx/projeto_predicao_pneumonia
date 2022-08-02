@@ -1,0 +1,16 @@
+{
+    // R Options
+    "r.rterm.windows": "C:\\Program Files\\R\\R-4.1.3\\bin\\R.exe",
+    "r.rpath.windows": "C:\\Program Files\\R\\R-4.1.3\\bin\\R.exe",
+    "r.lsp.path": "C:\\Program Files\\R\\R-4.1.3\\bin\\R.exe",
+    "r.lsp.debug": true,
+    "r.lsp.diagnostics": true,
+    "r.alwaysUseActiveTerminal": true,
+    "r.rterm.option": [
+        "--no-save",
+        "--no-restore",
+        "--r-binary=C:\\Program Files\\R\\R-4.1.3\\bin\\R.exe"
+    ],
+    "r.bracketedPaste": true,
+    "r.sessionWatcher": true
+}

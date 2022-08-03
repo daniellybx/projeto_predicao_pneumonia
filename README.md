@@ -15,7 +15,7 @@ Diante desse cenário, é importante identificar quais os fatores que estão ass
 
 ## Material e Métodos
 
-Será realizado um estudo preditivo considerando como desfecho a morte de pessoas internadas por pneumonia bacteriana no Brasil entre 2008 e 2021. O ano de 2008 foi escolhido por ser o ano do lançamento da Portaria Nº 221, de 17 de abril de 2008, que dispõe sobre a lista de Condições Sensíveis à Atenção Primária. O estudo considerará todas as internações por pneumonia bacteriana no período. 
+Será realizado um estudo preditivo considerando como desfecho a morte de pessoas internadas por pneumonia bacteriana no Brasil em 2020. O ano de 2020 foi escolhido por ser o ano mais recente de disponibilidade e completude dos dados. O estudo considerará todas as internações por pneumonia bacteriana no período. 
 
 A fonte de dados será a base anonimizada de Autorizações de Internação Hospitalar (AIH) reduzidas do Sistema de Informações Hospitalares do Sistema Único de Saúde (SIH-SUS), disponível publicamente por meio Departamento de Informática do SUS (DATASUS) do endereço <https://datasus.saude.gov.br/transferencia-de-arquivos/>. 
 

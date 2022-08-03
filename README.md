@@ -41,5 +41,4 @@ Para o projeto, serão consideradas as CID elencadas na Portaria Nº 221, de 17 
 
 ## Tecnologias usadas
 
-- Python 3.10
-- R 4.2.1
+- Python 3.8.10

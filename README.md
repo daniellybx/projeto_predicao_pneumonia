@@ -1,4 +1,4 @@
-# Predição de mortalidade em internações por pneumonias bacterianas sensíveis à Atenção Primária no Brasil, 2008-2021
+# Predição de mortalidade em internações por pneumonias bacterianas sensíveis à Atenção Primária no Brasil, 2020
 
 ## Contexto 
 

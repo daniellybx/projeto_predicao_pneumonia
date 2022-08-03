@@ -1,4 +1,4 @@
-# Predição de mortalidade em internações por pneumonias bacterianas sensíveis à Atenção Primária no Brasil, 2020
+# Predição de mortalidade em internações por pneumonias bacterianas sensíveis à Atenção Primária no Brasil, 2017 - 2021
 
 ## Contexto 
 
@@ -10,22 +10,24 @@ Diante desse cenário, é importante identificar quais os fatores que estão ass
 
 ## Objetivo 
 
- -	Predizer mortalidade em pacientes internados por pneumonia bacteriana no SUS 
+ - Predizer mortalidade em pacientes internados por pneumonia bacteriana no SUS 
  - Identificar fatores associados à mortalidade por pneumonia bacteriana em pacientes internados 
 
 ## Material e Métodos
 
-Será realizado um estudo preditivo considerando como desfecho a morte de pessoas internadas por pneumonia bacteriana no Brasil em 2020. O ano de 2020 foi escolhido por ser o ano mais recente de disponibilidade e completude dos dados. O estudo considerará todas as internações por pneumonia bacteriana no período. 
+Estudo preditivo considerando como desfecho a morte de pessoas internadas por pneumonia bacteriana no Brasil entre 2017 e 2021. O estudo considera todas as internações por pneumonia bacteriana no período. 
 
-A fonte de dados será a base anonimizada de Autorizações de Internação Hospitalar (AIH) reduzidas do Sistema de Informações Hospitalares do Sistema Único de Saúde (SIH-SUS), disponível publicamente por meio Departamento de Informática do SUS (DATASUS) do endereço <https://datasus.saude.gov.br/transferencia-de-arquivos/>. 
+A fonte de dados é a base anonimizada de Autorizações de Internação Hospitalar (AIH) reduzidas do Sistema de Informações Hospitalares do Sistema Único de Saúde (SIH-SUS), disponível publicamente por meio Departamento de Informática do SUS (DATASUS) do endereço <https://datasus.saude.gov.br/transferencia-de-arquivos/>. 
 
-Para o projeto, serão consideradas as CID elencadas na Portaria Nº 221, de 17 de abril de 2008 considerando o grupo 6, que inclui as pneumonias bacterianas. Nesse grupo, estão incluídos os seguintes códigos de Classificação Internacional de Doenças (CID)- 10ª versão: 
+Para o projeto, são consideradas as CID elencadas na Portaria Nº 221, de 17 de abril de 2008 considerando o grupo 6, que inclui as pneumonias bacterianas. Nesse grupo, estão incluídos os seguintes códigos de Classificação Internacional de Doenças (CID)- 10ª versão: 
 
 - 	Pneumonia Pneumocócica (J13)
 - 	Pneumonia por Haemophilus infuenzae (J14)
 - 	Pneumonia por Streptococus (J15.3, J15.4)
 -	Pneumonia bacteriana NE (J15.8, J15.9)
 -	Pneumonia lobar NE (J18.1)
+
+Como variável dependente é considerada a morte e como vaáriaveis preditoras são consideradas as 8 variáveis disponíveis na tabela.
 
 |Variável |Identificação no SIH| Descrição| 
 |---------|--------------------|----------|
@@ -42,3 +44,4 @@ Para o projeto, serão consideradas as CID elencadas na Portaria Nº 221, de 17 
 ## Tecnologias usadas
 
 - Python 3.8.10
+- Jupyter Notebook

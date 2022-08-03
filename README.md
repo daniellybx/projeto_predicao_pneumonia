@@ -43,13 +43,10 @@ Como variável dependente é considerada a morte e como vaáriaveis preditoras s
 
 ## Índice do repositório
 
-- README.md: descrição do projeto;
-- sih_pneumonia_1721: arquivo final de internações por pneumonia bacteriana entre 2017 e 2021.
-
 ### Pastas
 
 - documentos: arquivos auxiliares da análise, como dicionário de dados e manuais do SIH;
-- notebooks: notebooks da análise exploratória e da análise preditiva;
+- notebooks: notebooks e arquivos de dados da análise exploratória e da análise preditiva;
 - scripts: scripts de *download* e tratamento de dados;
 
 ## Tecnologias usadas

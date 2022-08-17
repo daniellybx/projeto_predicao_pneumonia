@@ -32,13 +32,21 @@ Como variável dependente é considerada a morte e como vaáriaveis preditoras s
 |Variável |Identificação no SIH| Descrição| 
 |---------|--------------------|----------|
 |Morte|MORTE   |Indica se o internado evoluiu à óbito|
+|Número da AIH  |N_AIH      |Identificação da AIH |
 |Idade  |IDADE      |Indica a idade do internado no momento da internação |
 |Sexo  |SEXO      |Indica o sexo do internado |
 |Unidade Federada  |UF_ZI      |Código do IBGE para a unidade da federação em que a internação ocorreu |
-|Permanência   |DIAS_PERM      |Indica quantos dias o internado permaneceu no estabelecimento de saúde |
 |Número de filhos  |NUM_FILHOS      |Indica a quantidade de filhos declarada pelo internado |
 |Grau de instrução  |INSTRU      |Indica o grau de instrução do internado |
+|CID da  causa da morte  |CID_MORTE      |Indica o grau de instrução do internado |
+|Permanência   |DIAS_PERM      |Indica quantos dias o internado permaneceu no estabelecimento de saúde |
+|Diagnóstico Principal  |DIAG_PRINC      |CID do diagnóstico principal |
+|Diagnóstico Secundário |DIAG_SECUN      |CID de comorbidades apresentadas na internação |
+|Data de Internação |DT_INTER      |Data de internação |
+|Ano de competência da Internação |ANO_CMPT      |Ano de competência do registro da AIH  |
+|Mês de competência da Internação |MES_CMPT      |Mês de competência do registro da AIH |
 |Tipo de UTI  |MARCA_UTI      |Indica qual o tipo de UTI utilizada pelo internado |
+|Permanência na UTI  |UTI_MES_TO      |Dias de permanência na UTI durante o mês referente |
 |Infecção hospitalar  |INFEHOSP     |Indica o status de infeção hospitalar do internado |
 
 ## Tecnologias usadas

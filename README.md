@@ -31,7 +31,7 @@ Como variável dependente é considerada a morte e como vaáriaveis preditoras s
 
 |Variável |Identificação no SIH| Descrição| 
 |---------|--------------------|----------|
-|Morte|MORTE   |Indica se o internado evoluiu à óbito|
+|Morte|MORTE   |Indica se o internado evoluiu a óbito|
 |Número da AIH  |N_AIH      |Identificação da AIH |
 |Idade  |IDADE      |Indica a idade do internado no momento da internação |
 |Sexo  |SEXO      |Indica o sexo do internado |
@@ -64,4 +64,4 @@ Como variável dependente é considerada a morte e como vaáriaveis preditoras s
 ### Pastas 
 
 - documentos: documentos de auxílio dos dados
-- imagens: gráficos e figuras incluídas no modelo
+- imagens: gráficos e figuras incluídas no documento

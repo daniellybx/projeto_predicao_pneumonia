@@ -56,10 +56,10 @@ Como variável dependente é considerada a morte e como vaáriaveis preditoras s
 
 ## Índice do repositório
 
-- 01_importando_pysus.py: script de importação dos dados PySUS
-- 02_analise_exploratoia.ipynb: script da análise exploratória dos dados
-- A110224189_28_143_208.csv: dados de número de internações por UF e ano 
-- sih_pneumonia_1721.csv: dados de internação por pneumonia sensível à APS
+- documentos: inclui os documentos que ajudam a compreender os dados;
+- imagens: inclui os gráficos e imagens do trabalho;
+- primeira_versao: contém os resultados apresentados na primeira versão do trabalho;
+- 01_importando_sim_pysus: importacao de dados do pysus para a análise atualizada;
 
 ### Pastas 
 
